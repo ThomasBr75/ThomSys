@@ -1,0 +1,14 @@
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\obj\x86\Debug\MainWindow.baml
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\obj\x86\Debug\MainWindow.g.cs
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\obj\x86\Debug\App.g.cs
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\obj\x86\Debug\CustomerProject_MarkupCompile.cache
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\obj\x86\Debug\CustomerProject.g.resources
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\obj\x86\Debug\CustomerProject.About.resources
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\obj\x86\Debug\CustomerProject.Properties.Resources.resources
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\bin\Debug\CustomerProject.exe
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\bin\Debug\CustomerProject.pdb
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\obj\x86\Debug\CustomerProject.exe
+C:\Dev\WindowsForms\CustomerProject\CustomerProject\obj\x86\Debug\CustomerProject.pdb
