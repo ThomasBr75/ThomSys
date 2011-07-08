@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\devel\ThomasBr75\ThomSys\CustomerProject\CustomerProjectTests\bin\Debug\CustomerProjectTests.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-07-08" time="13:35:49">
+  <environment nunit-version="2.5.2.9222" clr-version="2.0.50727.4961" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Program Files\NUnit 2.5.2\bin\net-2.0" machine-name="THOMAS-PC" user="Thomas" user-domain="Thomas-PC" />
+  <culture-info current-culture="nb-NO" current-uiculture="en-US" />
+  <test-suite name="C:\devel\ThomasBr75\ThomSys\CustomerProject\CustomerProjectTests\bin\Debug\CustomerProjectTests.dll" executed="True" success="True" time="0.086" asserts="0">
+    <results>
+      <test-suite name="CustomerProjectTests" executed="True" success="True" time="0.081" asserts="0">
+        <results>
+          <test-suite name="When_Customer_is_initialized" executed="True" success="True" time="0.065" asserts="0">
+            <results>
+              <test-case name="CustomerProjectTests.When_Customer_is_initialized.An_object_should_be_created" executed="True" success="True" time="0.011" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite name="When_CustomerViewModel_is_updated" executed="True" success="True" time="0.005" asserts="0">
+            <results>
+              <test-case name="CustomerProjectTests.When_CustomerViewModel_is_updated.The_Customer_model_should_be_updated" executed="True" success="True" time="0.005" asserts="4" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,9 @@
+C:\devel\ThomasBr75\ThomSys\CustomerProject\CustomerProjectTests\obj\Debug\ResolveAssemblyReference.cache
+C:\devel\ThomasBr75\ThomSys\CustomerProject\CustomerProjectTests\bin\Debug\CustomerProjectTests.dll
+C:\devel\ThomasBr75\ThomSys\CustomerProject\CustomerProjectTests\bin\Debug\CustomerProjectTests.pdb
+C:\devel\ThomasBr75\ThomSys\CustomerProject\CustomerProjectTests\bin\Debug\CustomerProject.exe
+C:\devel\ThomasBr75\ThomSys\CustomerProject\CustomerProjectTests\bin\Debug\nunit.framework.dll
+C:\devel\ThomasBr75\ThomSys\CustomerProject\CustomerProjectTests\bin\Debug\CustomerProject.pdb
+C:\devel\ThomasBr75\ThomSys\CustomerProject\CustomerProjectTests\bin\Debug\nunit.framework.xml
+C:\devel\ThomasBr75\ThomSys\CustomerProject\CustomerProjectTests\obj\Debug\CustomerProjectTests.dll
+C:\devel\ThomasBr75\ThomSys\CustomerProject\CustomerProjectTests\obj\Debug\CustomerProjectTests.pdb
